@@ -1,6 +1,6 @@
 const config = {
-	ownerID: ['YourAccountID'],
-	token: 'YourBotToken',
+	ownerID: ['866652196258447360'],
+	token: 'OTMwMTY4OTA5MDUzNzAyMjg3.Ydx9TQ.hury4IOm2vwmTeYjBqK0lwDHCDQ',
 	// For looking up Twitch, Fortnite, Steam accounts
 	api_keys: {
 		// https://dev.twitch.tv/console/apps
